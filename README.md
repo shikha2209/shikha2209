@@ -1,4 +1,4 @@
-Hey github I'm Pramod
+
 - 👋 Hi, I’m @shikha2209
 - 🌱 I’m currently learning Machine Learning
 
