@@ -8,8 +8,7 @@ Passionate about building scalable web apps and cloud solutions.
 - 🌱 Learning **AWS, Docker, and DevOps basics**  
 - 💬 Ask me about **Frontend Development, React & MUI**  
 - 📫 Reach me: shikhasoni2209@gmail.com  
-- 🌍 Portfolio: https://shikha2209.github.io/portfolio.github.io/  
-
+- 🌍 Portfolio: https://shikha2209.github.io/port-shikh/
 ---
 
 ## 🛠️ Tech Stack  
