@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Shikha 
 
-🚀 **Full-Stack Developer & Data Engineer**  
+🚀 **Full-Stack Developer **  
 Passionate about building scalable web apps and cloud solutions.  
 
 - 🔭 Currently working on **React, Next.js, and TypeScript**  
