@@ -32,11 +32,10 @@ Passionate about building scalable web apps and cloud solutions.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikha2209&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikha2209&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shikha-soni-2209/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://shikha2209.github.io/portfolio.github.io/)
