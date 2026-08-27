@@ -31,11 +31,5 @@ Passionate about building scalable web apps and cloud solutions.
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikha2209&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikha2209&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://shikha2209.github.io/portfolio.github.io/)
