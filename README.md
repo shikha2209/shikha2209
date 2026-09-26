@@ -32,4 +32,4 @@ Passionate about building scalable web apps and cloud solutions.
 ---
 
 ## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://shikha2209.github.io/portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://shikha2209.github.io/port-shikh/)
