@@ -4,7 +4,7 @@
 🚀 **Full-Stack Developer **  
 Passionate about building scalable web apps and cloud solutions.  
 
-- 🔭 Currently working on **React, Next.js, and TypeScript**  
+- 🔭 Currently working on **React, Next.js, Node ,Express , MongoDB and TypeScript**  
 - 🌱 Learning **AWS, Docker, and DevOps basics**  
 - 💬 Ask me about **Frontend Development, React & MUI**  
 - 📫 Reach me: shikhasoni2209@gmail.com  
@@ -18,6 +18,7 @@ Passionate about building scalable web apps and cloud solutions.
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
